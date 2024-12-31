@@ -1,7 +1,3 @@
-Certainly! Below is a sample `README.md` file for your project. You can customize it as needed:
-
----
-
 # Quantum Tech - Shaping a Quantum-Powered Tomorrow
 
 This is a web project for showcasing a futuristic concept of quantum technology, highlighting the power of quantum computing and its potential for shaping the future.
@@ -97,8 +93,4 @@ Feel free to fork the repository and submit issues or pull requests for any impr
 
 ### Contact
 For any questions or feedback, feel free to reach out to me at:  
-**Email**: your.email@example.com
-
----
-
-This `README.md` provides an overview of your project, instructions for setting up the project, technologies used, and contribution guidelines. You can edit the sections (like installation or technology stack) to match any additional details specific to your project.
+adityananaware2@gmail.com
