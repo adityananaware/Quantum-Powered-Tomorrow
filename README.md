@@ -1,5 +1,7 @@
 # Quantum Tech - Shaping a Quantum-Powered Tomorrow
 
+https://adityananaware.github.io/Quantum-Powered-Tomorrow/
+
 This is a web project for showcasing a futuristic concept of quantum technology, highlighting the power of quantum computing and its potential for shaping the future.
 
 ## Project Overview
